@@ -1,11 +1,10 @@
 apply plugin: 'scala'
 
-sourceCompatibility = 1.5
 version = '1.0'
+sourceCompatibility = 1.6
 
 repositories {
     mavenCentral()
-    mavenLocal()
 }
 
 dependencies {
