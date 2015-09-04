@@ -23,3 +23,7 @@ project/plugins/project/
 
 # Gradle
 .gradle/
+
+
+# Local
+*/**/auth.properties
